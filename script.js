@@ -11,8 +11,6 @@ function createCanvas(size) {
             grid.appendChild(cell);
         }
     }
-    //cell.setAttribute('width', 600 / size);
-    //cell.setAttribute('height', 600 / size);
 }
 
 function draw() {
