@@ -7,3 +7,10 @@ This is a sketch pad created with HTML, CSS and Js, which purpose was to train m
 When you hover the canvas, you can draw on it. Press the button to be prompted to enter a number between 1 and 64 and change the number of pixels and thus the size of your pen.
 
 [Live version here](https://tinatronic.github.io/odin-etchasketch/)
+
+
+## To do
+
+• Add colour picker
+• Add save img button
+• Replace prompt by input range or several size pen buttons
