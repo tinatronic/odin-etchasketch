@@ -17,8 +17,10 @@
         <h1>Etch-a-sketch</h1>
     </header>
     <main>
-        <div>
-            <button id="size-btn" class="btn">Number of squares</button>
+        <div id="controls">
+            <button id="size-btn" class="btn">Pen size</button>
+            <label id="size-label" for="size"></label>
+            <input type="range" name="size" min="1" max="64">
         </div>
         <div id="canvas"></div>
     </main>
